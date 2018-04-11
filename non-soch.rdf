@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+>
+  <rdf:Description rdf:nodeID="ub1bL67C31">
+    <dc:description xml:lang="en">Shape files for point data.</dc:description>
+    <dc:format>application/octet-stream</dc:format>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <dc:description xml:lang="sv">Shape-filer för punktdata.</dc:description>
+    <foaf:page rdf:resource="https://www.raa.se/hitta-information/fornsok/"/>
+    <dcat:accessURL rdf:resource="https://www.raa.se/app/uploads/2017/01/FMIS_punkter_metadata_shape.zip"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL120C17">
+    <dc:format>text/tab-separated-values</dc:format>
+    <dc:description xml:lang="sv">Tab-filer för Kulturhistoriskt bebyggelse.</dc:description>
+    <foaf:page rdf:resource="https://www.raa.se/hitta-information/bebyggelseregistret-bebr/"/>
+    <dc:description xml:lang="en">TSV (tab) files for built heritage.</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <dcat:accessURL rdf:resource="https://www.raa.se/app/uploads/2014/02/bebyggelse_sverige_tab-1.zip"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL24C18">
+    <dcat:keyword xml:lang="en">history</dcat:keyword>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dc:title xml:lang="sv">3D-modeller</dc:title>
+    <dc:accessRights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:source rdf:resource="https://www.raa.se/"/>
+    <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+    <foaf:page rdf:resource="https://sketchfab.com/Riksantikvarieambetet"/>
+    <dcat:keyword xml:lang="en">culture</dcat:keyword>
+    <dc:publisher rdf:resource="https://www.raa.se/"/>
+    <dcat:keyword>H4S-18</dcat:keyword>
+    <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:keyword xml:lang="en">museum</dcat:keyword>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+    <dcat:contactPoint rdf:resource="mailto:registrator@raa.se"/>
+    <dcat:distribution rdf:nodeID="ub1bL32C31"/>
+    <dc:description xml:lang="sv">3D-modeller framtagna av Riksantikvarieämbetet</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL57C9">
+    <dc:title xml:lang="en">National Database for Archaeological Sites and Monuments</dc:title>
+    <dcat:keyword xml:lang="en">culture</dcat:keyword>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dc:description xml:lang="sv">Fornlämningar och övriga kulturhistoriska lämningar (FMIS/Fornsök)</dc:description>
+    <dcat:distribution rdf:nodeID="ub1bL67C31"/>
+    <dcat:keyword>H4S-18</dcat:keyword>
+    <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+    <dcat:keyword xml:lang="en">museum</dcat:keyword>
+    <foaf:page rdf:resource="https://www.raa.se/hitta-information/fornsok/"/>
+    <dcat:contactPoint rdf:resource="mailto:fornsok@raa.se"/>
+    <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+    <dcat:distribution rdf:nodeID="ub1bL76C17"/>
+    <dc:source rdf:resource="https://www.raa.se/"/>
+    <dcat:keyword xml:lang="en">history</dcat:keyword>
+    <dc:title xml:lang="sv">Fornlämningar och övriga kulturhistoriska lämningar</dc:title>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dc:accessRights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+    <dc:publisher rdf:resource="https://www.raa.se/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.raa.se/">
+    <dc:description xml:lang="en">The Swedish National Heritage Board’s non-SOCH open data.</dc:description>
+    <dcat:dataset rdf:nodeID="ub1bL57C9"/>
+    <dcat:contactPoint rdf:resource="mailto:registrator@raa.se"/>
+    <vcard:hasEmail rdf:resource="mailto:registrator@raa.se"/>
+    <dc:spatial rdf:resource="http://sws.geonames.org/2661886"/>
+    <foaf:name xml:lang="sv">Riksantikvarieämbetet</foaf:name>
+    <dcat:dataset rdf:nodeID="ub1bL24C18"/>
+    <dc:title xml:lang="sv">Riksantikvarieämbetets öppna data utanför K-samsök.</dc:title>
+    <dc:title xml:lang="en">The Swedish National Heritage Board’s non-SOCH open data.</dc:title>
+    <dcat:identifier rdf:resource="https://www.raa.se/hitta-information/information-tillganglig-for-vidareutnyttjande/"/>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-04-11</dc:modified>
+    <dc:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+    <dc:publisher rdf:resource="https://www.raa.se/"/>
+    <foaf:homepage rdf:resource="https://www.raa.se/"/>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-10</dc:issued>
+    <dc:description xml:lang="sv">Riksantikvarieämbetets öppna data utanför K-samsök.</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/mdr/authority/"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dcat:dataset rdf:nodeID="ub1bL101C9"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <foaf:name xml:lang="en">Swedish National Heritage Board</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL101C9">
+    <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+    <dcat:keyword>H4S-18</dcat:keyword>
+    <dcat:contactPoint rdf:resource="mailto:bebyggelseregistret@raa.se"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:distribution rdf:nodeID="ub1bL120C17"/>
+    <dcat:keyword xml:lang="en">culture</dcat:keyword>
+    <foaf:page rdf:resource="https://www.raa.se/hitta-information/bebyggelseregistret-bebr/"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dc:accessRights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:publisher rdf:resource="https://www.raa.se/"/>
+    <dcat:keyword xml:lang="en">history</dcat:keyword>
+    <dc:description xml:lang="en">Database of Built Heritage</dc:description>
+    <dcat:distribution rdf:nodeID="ub1bL111C31"/>
+    <dc:source rdf:resource="https://www.raa.se/"/>
+    <dc:description xml:lang="sv">Kulturhistoriskt bebyggelse (Bebyggelseregistret)</dc:description>
+    <dc:title xml:lang="sv">Kulturhistoriskt bebyggelse</dc:title>
+    <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+    <dcat:keyword xml:lang="en">museum</dcat:keyword>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL32C31">
+    <dc:format>text/plain</dc:format>
+    <dcat:accessURL rdf:resource="https://sketchfab.com/Riksantikvarieambetet"/>
+    <dc:description xml:lang="sv">3D modeller på Sketchfab.</dc:description>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <dc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+    <dc:description xml:lang="en">3D models on Sketchfab.</dc:description>
+    <foaf:page rdf:resource="https://sketchfab.com/Riksantikvarieambetet"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL76C17">
+    <dcat:accessURL rdf:resource="https://www.raa.se/app/uploads/2017/01/FMIS_yta_linje_nil_shape.zip"/>
+    <foaf:page rdf:resource="https://www.raa.se/hitta-information/fornsok/"/>
+    <dc:description xml:lang="en">Shape files for polygon, polyline, and null data.</dc:description>
+    <dc:description xml:lang="sv">Shape-filer för ytor, linjer, och nil-fil.</dc:description>
+    <dc:format>application/octet-stream</dc:format>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL111C31">
+    <dc:format>application/octet-stream</dc:format>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+    <dc:description xml:lang="sv">Shape-filer för Kulturhistoriskt bebyggelse.</dc:description>
+    <dcat:accessURL rdf:resource="https://www.raa.se/app/uploads/2014/02/bebyggelse_sverige_shp_.zip"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <foaf:page rdf:resource="https://www.raa.se/hitta-information/bebyggelseregistret-bebr/"/>
+    <dc:description xml:lang="en">Shape files for built heritage.</dc:description>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rdf:Description>
+<!--
+  <rdf:Description rdf:about="http://www.platser.se/">
+    <dc:description xml:lang="en">Platser is a forum for ordinary people’s memories and stories.</dc:description>
+    <dc:publisher rdf:resource="https://www.raa.se/"/>
+    <dc:description xml:lang="sv">Platser är Riksantikvarieämbetets tjänst för berättelser och minnen.</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <foaf:homepage rdf:resource="http://www.platser.se/"/>
+    <dc:title xml:lang="en">Platser is a forum for ordinary people’s memories and stories.</dc:title>
+    <dcat:contactPoint rdf:resource="mailto:platser@raa.se"/>
+    <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/mdr/authority/"/>
+    <dc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <dc:spatial rdf:resource="http://sws.geonames.org/2661886"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:title xml:lang="sv">Platser är Riksantikvarieämbetets tjänst för berättelser och minnen.</dc:title>
+    <dcat:dataset rdf:nodeID="ub1bL164C18"/>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dcat:identifier rdf:resource="http://www.platser.se/"/>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-10</dc:issued>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-04-11</dc:modified>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL174C31">
+    <dc:description xml:lang="sv">Ett REST-API</dc:description>
+    <dc:description xml:lang="en">A RESTful API</dc:description>
+    <dcat:accessURL rdf:resource="https://v-app.testraa.se/platser/api/"/>
+    <dc:rights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:format>application/json</dc:format>
+    <dc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+    <foaf:page rdf:resource="https://app.raa.se/platser/api/"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ub1bL164C18">
+    <dcat:keyword xml:lang="en">culture</dcat:keyword>
+    <dcat:distribution rdf:nodeID="ub1bL174C31"/>
+    <dcat:contactPoint rdf:resource="mailto:platser@raa.se"/>
+    <dcat:keyword xml:lang="sv">historia</dcat:keyword>
+    <dc:language rdf:resource="http://id.loc.gov/vocabulary/iso639-1/sv"/>
+    <dcat:keyword xml:lang="en">museum</dcat:keyword>
+    <dc:title xml:lang="sv">Platser</dc:title>
+    <dc:accessRights rdf:resource="https://www.raa.se/om-webbplatsen/licenser/"/>
+    <dc:source rdf:resource="http://www.platser.se/"/>
+    <dcat:keyword xml:lang="sv">kultur</dcat:keyword>
+    <dc:publisher rdf:resource="https://www.raa.se/"/>
+    <dcat:keyword xml:lang="sv">museum</dcat:keyword>
+    <foaf:page rdf:resource="https://app.raa.se/platser/api/"/>
+    <dc:description xml:lang="sv">Platser – berättelser och minnen</dc:description>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dcat:keyword xml:lang="en">history</dcat:keyword>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dc:description xml:lang="en">Platser – memories and stories</dc:description>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:keyword>H4S-18</dcat:keyword>
+  </rdf:Description>
+-->
+</rdf:RDF>
