@@ -36,7 +36,6 @@
     <foaf:page rdf:resource="https://sketchfab.com/Riksantikvarieambetet"/>
     <dcat:keyword xml:lang="en">culture</dcat:keyword>
     <dc:publisher rdf:resource="https://www.raa.se/"/>
-    <dcat:keyword>H4S-18</dcat:keyword>
     <dcat:keyword xml:lang="sv">museum</dcat:keyword>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
     <dcat:keyword xml:lang="en">museum</dcat:keyword>
@@ -55,7 +54,6 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dc:description xml:lang="sv">Fornlämningar och övriga kulturhistoriska lämningar (FMIS/Fornsök)</dc:description>
     <dcat:distribution rdf:nodeID="ub1bL67C31"/>
-    <dcat:keyword>H4S-18</dcat:keyword>
     <dcat:keyword xml:lang="sv">museum</dcat:keyword>
     <dcat:keyword xml:lang="en">museum</dcat:keyword>
     <foaf:page rdf:resource="https://www.raa.se/hitta-information/fornsok/"/>
@@ -98,7 +96,6 @@
   </rdf:Description>
   <rdf:Description rdf:nodeID="ub1bL101C9">
     <dcat:keyword xml:lang="sv">museum</dcat:keyword>
-    <dcat:keyword>H4S-18</dcat:keyword>
     <dcat:contactPoint rdf:resource="mailto:bebyggelseregistret@raa.se"/>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
@@ -199,7 +196,6 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dc:description xml:lang="en">Platser – memories and stories</dc:description>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-    <dcat:keyword>H4S-18</dcat:keyword>
   </rdf:Description>
 -->
 </rdf:RDF>
